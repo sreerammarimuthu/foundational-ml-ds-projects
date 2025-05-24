@@ -1,2 +1,2 @@
-# Foundational ML projects
+# Foundational ML-DS projects
 
